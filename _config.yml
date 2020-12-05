@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Nordi ECHCHARFI"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/Users/nour-eddineechcharfi/Documents/GitHub/Nordi-Echcharfi/profile.jpg"
   bio              : "Doctoral Candidate."
   location         : "Rabat, Morocco"
   email            :
@@ -113,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/nordiechcharfi"
+       #url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
