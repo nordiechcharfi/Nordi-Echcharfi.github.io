@@ -1,4 +1,3 @@
-encoding: UTF-8# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -16,10 +15,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nordi Ech-charfi"
+title                    : "Nordi Echcharfi"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Nordi Ech-charfi"
+name                     : "Nordi Echcharfi"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -93,7 +92,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nordi Ech-charfi"
+  name             : "Nordi Echcharfi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Doctoral Candidate"
   location         : "Rabat, Morocco"
