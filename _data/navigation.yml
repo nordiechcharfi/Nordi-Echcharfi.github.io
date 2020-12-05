@@ -1,4 +1,5 @@
 # main links
+encoding: "utf-8"
 main:
 - title: "About"
     url: /about/
