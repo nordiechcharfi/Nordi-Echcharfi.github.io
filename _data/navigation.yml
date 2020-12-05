@@ -1,14 +1,14 @@
 # main links
 encoding: "utf-8"
 main:
-- title: "About"
-   # url: /about/
 - title: "CV"
+   # url: /about/
+- title: "Research"
 url: /N.Echcharfi_CV_QU_2020.pdf/
 
-  # - title: "Sample Posts"
+- title: "Teaching"
   #   url: /year-archive/
-  # - title: "Sample Collections"
+- title: "R code"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
