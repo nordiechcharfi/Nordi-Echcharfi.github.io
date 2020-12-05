@@ -96,7 +96,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Doctoral Candidate"
   location         : "Rabat, Morocco"
-  email            :noureddine.echcharfi@gmail.com
+  email            :"noureddine.echcharfi@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
