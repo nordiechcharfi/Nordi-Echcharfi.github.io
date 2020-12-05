@@ -3,8 +3,7 @@ main:
 - title: "CV"
    # url: /about/
 - title: "Research"
-url: /N.Echcharfi_CV_QU_2020.pdf/
-
+   #url: /N.Echcharfi_CV_QU_2020.pdf/
 - title: "Teaching"
   #   url: /year-archive/
 - title: "R code"
