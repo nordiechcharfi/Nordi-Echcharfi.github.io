@@ -1,5 +1,7 @@
 # main links
 main:
+- title: "About"
+     url: /_pages/2020-12-06-Second-post.md
 - title: "CV"
    # url: /about/
 - title: "Research"
