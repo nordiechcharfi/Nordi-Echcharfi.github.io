@@ -1,7 +1,7 @@
 # main links
 main:
 - title: "About"
-     <a href="/_pages/about.md">
+     url: /about/
 - title: "CV"
    # url: /about/
 - title: "Research"
