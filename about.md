@@ -1,2 +1,10 @@
-title: \About\
-permalink : \'94 /about/\'93\
+
+-----
+title: "About"
+permalink : /about/
+header:
+    image: "image/me.jpg
+--------
+
+I am a junior economist
+
