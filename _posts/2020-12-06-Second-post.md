@@ -1,5 +1,5 @@
 ---
-title: "2020-12-06-Second-post.md"
+title: "Second post here"
 output: html_document
 ---
 
