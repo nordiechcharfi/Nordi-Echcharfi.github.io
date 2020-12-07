@@ -1,5 +1,5 @@
 
-#SOE
+# **SOE**
 
 What does *'small open economy'* mean?
 Economists rely on different criteria (e.g. Income Level, Human Development, Natural Resource Richness etc.) to classify the world's economies. Sometimes they use more than one criterion to think about a group of countries. In the literature on *International Macro* a large number of countries are considered as Small Open Economies (SOEs hereafter). So, what does it mean for a country to be a SOE? How does it matter to be such? And what are the main features of these SOEs?   
