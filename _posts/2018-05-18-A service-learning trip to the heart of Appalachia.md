@@ -1,4 +1,4 @@
-
+<style>body {text-align: justify}</style>
 
 ![Williamson, WV](_image/Amizade.jpg "Williamson, WV – Fulbright-Amizade participants.")
 
