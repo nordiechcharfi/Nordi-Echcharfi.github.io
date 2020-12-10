@@ -1,6 +1,5 @@
-## A Fulbrighter’s Mementos (2): A service-learning trip to the heart of Appalachia
 
-MILWAUKEE, WI – Saturday, May 5th, 2018 returning from a one-week service-learning trip to Williamson, WV to Milwaukee, WI I had a four-hour layover in Charlotte, NC. I opened my laptop and searched for Loretta Lynn, a singer that Katy, a young woman from Kentucky I have met during my trip, told me was one of the most famous singers from Appalachia. The first video YouTube suggested to me was the song titled “Coal Miner’s Daughter”. The second strophe of the song says:
+**MILWAUKEE, WI** – Saturday, May 5th, 2018 returning from a one-week service-learning trip to Williamson, WV to Milwaukee, WI I had a four-hour layover in Charlotte, NC. I opened my laptop and searched for Loretta Lynn, a singer that Katy, a young woman from Kentucky I have met during my trip, told me was one of the most famous singers from Appalachia. The first video YouTube suggested to me was the song titled “Coal Miner’s Daughter”. The second strophe of the song says:
 
 “Yeah, I’m proud to be a coal miner’s daughter
 I remember well – the well where I drew water
