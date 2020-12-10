@@ -1,11 +1,11 @@
 
 **MILWAUKEE, WI** – Saturday, May 5th, 2018 returning from a one-week service-learning trip to Williamson, WV to Milwaukee, WI I had a four-hour layover in Charlotte, NC. I opened my laptop and searched for Loretta Lynn, a singer that Katy, a young woman from Kentucky I have met during my trip, told me was one of the most famous singers from Appalachia. The first video YouTube suggested to me was the song titled “Coal Miner’s Daughter”. The second strophe of the song says:
 
-Yeah, I’m proud to be a coal miner’s daughter
-I remember well – the well where I drew water
-The work we done was hard
-At night we’d sleep ’cause we worked hard
-I never thought of ever leaving Butcher Holler
+>Yeah, I’m proud to be a coal miner’s daughter
+>I remember well – the well where I drew water
+>The work we done was hard
+>At night we’d sleep ’cause we worked hard
+>I never thought of ever leaving Butcher Holler
 
 (Loretta Lynn, Coal Miner’s Daughter, 1970)
 
