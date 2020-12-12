@@ -29,6 +29,8 @@ I brought up the “forget the old business” story to a few people in Williams
 
 Nevertheless, the community leaders I have met in Williamson are committed to a mission, which is to create a sustainable community in Williamson. They struggle to diversify the community’s economy through projects which aim to build a sustainable agriculture, promote renewable energy and initiate a sustainable tourism. The leaders also educate the community about eating healthy and encourage them to exercise. The leaders in Williamson not only seek to perpetuate the town but strive to make it a better place.
 
+![Belfry, KY ](/image/Amizade2.jpg "Belfry, KY – Fulbright-Amizade volunteers, participating in a trail walk with Alex Batusa (Left).")
+
 I asked Darrin if he would like his children to settle down in the small town of Williamson. I was expecting the answer to be delicate for him. In fact, it was not. Darrin looked forward to seeing his children thrive in their home town. He told me that, for him, the American dream is to live, work hard and raise a good family in a small community such as Williamson.
 
 Throughout the one-week service-learning experience in the heart of Appalachia, I have had the chance, with the other Fulbright-Amizade participants, to work closely with the local community. For instance, we prepared the soil for planting in the Williamson community gardens, refresh Appalachiafarm and sustainable Pikeville. We also helped the Starrs, an elderly couple, to plant corn, onions and tomato. I was delighted to learn that the work we had done in a few hours would have taken the Starrs three days to accomplish. But what we have learned from this experience was far more valuable than the labor we provided.
