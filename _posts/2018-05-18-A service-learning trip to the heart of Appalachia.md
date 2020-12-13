@@ -39,6 +39,6 @@ Coal mining has shaped life in Williamson since its birth. However, as Loretta L
 
 Saturday morning, it was raining, we left the heart of Appalachia. I brought with me a thought-provoking story, that of Williamson, a small town in West Virginia. A number of stories have been told about the town. I will eagerly follow the story of sustainable Williamson.
 
-
-## Disclaimer:   
+### <span style="color:red"> **Disclaimer**:</span>
+   
 This website is NOT an official Fulbright Program and the views expressed are MINE and not those of the Fulbright Program, the U.S. Department of State, or any of its partner organizations.
