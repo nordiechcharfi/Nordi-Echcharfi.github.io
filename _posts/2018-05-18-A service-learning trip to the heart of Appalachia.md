@@ -41,4 +41,4 @@ Saturday morning, it was raining, we left the heart of Appalachia. I brought wit
 
 ### <span style="color:red"> **Disclaimer**:</span>
    
-This website is NOT an official Fulbright Program and the views expressed are MINE and not those of the Fulbright Program, the U.S. Department of State, or any of its partner organizations.
+> *This website is NOT an official Fulbright Program and the views expressed are MINE and not those of the Fulbright Program, the U.S. Department of State, or any of its partner organizations*.
