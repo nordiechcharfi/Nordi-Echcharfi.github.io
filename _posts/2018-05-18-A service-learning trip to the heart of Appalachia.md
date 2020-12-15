@@ -1,4 +1,5 @@
 <style>body {text-align: justify}</style>
+<span style="font-family:Brail; font-size:1em">
 
 ![Williamson, WV](/image/Amizade.jpg "Williamson, WV – Fulbright-Amizade participants.")
 
@@ -11,7 +12,7 @@
 >At night we’d sleep ’cause we worked hard
 >I never thought of ever leaving Butcher Holler"*
 
->   (Loretta Lynn, Coal Miner’s Daughter, 1970)
+   (Loretta Lynn, Coal Miner’s Daughter, 1970)
 
 In “Coal Miner’s Daughter” Loretta Lynn tells the story of her life in Appalachia, having been born and grown up there. Although I have spent only seven days in Williamson, WV, the heart of Appalachia, I feel I also have a story to tell about the town.
 
@@ -19,7 +20,7 @@ Indeed, my service-learning trip to Williamson has been a firsthand experience o
 
 However, the prosperity in Williamson was not sustainable. The town suffered tremendous economic loses as the coal-mining industry start to slowdown. The once thriving coal-mining town of 50 000 inhabitants is now a small community of around 3000 residents, struggling to survive.
 
-Sunday, my first day in Williamson, with the other Fulbright-Amizade volunteers, we went hiking in the mountains. In the heart of Appalachia, the gorgeous green forests dominate the landscape, and the Tug river surrounds the town.It seemed like heaven on earth. From the top of a mountain, the town looks stagnant, though: It appears that everybody has left the heart of Appalachia.
+Sunday, my first day in Williamson, with the other Fulbright-Amizade volunteers, we went hiking in the mountains. In the heart of Appalachia, the gorgeous green forests dominate the landscape, and the Tug river surrounds the town. It seemed like heaven on earth. From the top of a mountain, the town looks stagnant, though: It appears that everybody has left the heart of Appalachia.
 
 The Economics story of Williamson is not unusual. As an Economics student, I learned that with technology and trade, one should never sleep like a dog. Things change, and sometimes very quickly. When things change, economists recommend a ruthless answer: the labor force should get trained for a new economic activity – Forget the old business. In Williamson, coal mining is not merely a business, though; it is a culture. In the heart of Appalachia, people are proud of being coal miners, sons and daughters of coal miners. In the heart of Appalachia, people talk about coal mining all day long. And in the heart of Appalachia, people sing about coal mining.  Life in the heart of Appalachia has been shaped by coal mining.
 
