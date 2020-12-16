@@ -1,7 +1,7 @@
 <style>body {text-align: justify}</style>
 <style>body {"font-family: Brail; font-size: 8pt; text-align: justify}</style>
 
-# **Chapters in Books**:
+# **Book chapters**:
  *Les marges de manœuvre de la politique monétaire et régime de change au Maroc : une perspective Néo-Keynésienne du triangle d’incompatibilité*.
 
 ### Abstract:
