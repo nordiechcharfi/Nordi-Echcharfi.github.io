@@ -1,4 +1,5 @@
-<style>body {"font-family:Brail;font-size: 10pt;text-align: justify}</style>
+<style>body {text-align: justify}</style>
+<style>body {"font-family: Brail; font-size: 10pt; text-align: justify}</style>
 
 
 ### Abstract:
