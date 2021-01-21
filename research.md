@@ -1,5 +1,5 @@
 <style>body {text-align: justify}</style>
-<style>body {"font-family: Brill; font-size: 5pt; text-align: justify}</style>
+<style>body {"font-family: Brill; font-size:3pt; text-align: justify}</style>
 
 ## **Publications**:
   **Capital account openness as a signal: free capital mobility improves fiscal discipline**
