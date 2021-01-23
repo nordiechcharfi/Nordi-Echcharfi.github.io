@@ -10,7 +10,7 @@
   padding-right: 1em;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
-  max-width: 100%;
+  max-width: 110%;
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
 
@@ -42,7 +42,7 @@ body {
     width: span(9 of 12);
     margin-right: span(1 of 12);
     padding-left: gutter(0.5 of 12);
-    padding-right: gutter(2 of 12);
+    padding-right: gutter(0.5 of 12);
   }
 
   .page__inner-wrap {
