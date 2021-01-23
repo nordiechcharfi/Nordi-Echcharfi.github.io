@@ -39,7 +39,7 @@ body {
   @include breakpoint($large) {
     float: right;
     width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-right: gutter(2 of 12);
+    padding-right: gutter(5 of 12);
   }
 
   @include breakpoint($x-large) {
