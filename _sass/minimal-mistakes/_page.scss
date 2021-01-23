@@ -41,13 +41,13 @@ body {
     float: right;
     width: span(11 of 12);
     margin-right: span(-1 of 12);
-    padding-left: gutter(0.25 of 12);
-    padding-right: gutter(0.25 of 12);
+    padding-left: gutter(0.5 of 12);
+    padding-right: gutter(0.5 of 12);
   }
 
   .page__inner-wrap {
     float: left;
-    margin-top: 1em;
+    margin-top: 0.5em;
     margin-left: 0;
     margin-right: 0;
     width: 100%;
