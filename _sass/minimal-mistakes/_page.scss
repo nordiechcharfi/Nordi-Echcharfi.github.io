@@ -47,7 +47,7 @@ body {
 
   .page__inner-wrap {
     float: left;
-    margin-top: -2em;
+    margin-top: 0.5em;
     margin-left: 0;
     margin-right: 0;
     width: 100%;
@@ -71,7 +71,7 @@ body {
   line-height: 1;
 
   & + .page__meta {
-    margin-top: -0.5em;
+    margin-top: 0.5em;
   }
 }
 
