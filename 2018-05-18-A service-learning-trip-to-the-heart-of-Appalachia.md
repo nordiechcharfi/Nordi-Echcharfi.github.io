@@ -31,6 +31,8 @@ Nevertheless, the community leaders I have met in Williamson are committed to a 
 
 ![Belfry, KY ](/image/Amizade2.jpg "Belfry, KY – Fulbright-Amizade volunteers, participating in a trail walk with Alex Batusa (Left).")
 
+*Belfry, KY – Fulbright-Amizade volunteers, participating in a trail walk with Alex Batusa (Left).*
+
 I asked Darrin if he would like his children to settle down in the small town of Williamson. I was expecting the answer to be delicate for him. In fact, it was not. Darrin looked forward to seeing his children thrive in their home town. He told me that, for him, the American dream is to live, work hard and raise a good family in a small community such as Williamson.
 
 Throughout the one-week service-learning experience in the heart of Appalachia, I have had the chance, with the other Fulbright-Amizade participants, to work closely with the local community. For instance, we prepared the soil for planting in the Williamson community gardens, refresh Appalachiafarm and sustainable Pikeville. We also helped the Starrs, an elderly couple, to plant corn, onions and tomato. I was delighted to learn that the work we had done in a few hours would have taken the Starrs three days to accomplish. But what we have learned from this experience was far more valuable than the labor we provided.
