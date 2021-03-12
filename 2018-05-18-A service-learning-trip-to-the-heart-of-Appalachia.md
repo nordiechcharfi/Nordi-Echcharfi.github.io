@@ -1,5 +1,5 @@
 ---
-title: "my title"
+title: "A service learning trip to the heart of Appalachia"
 author: Nordi ECHCHARFI
 date: 2018-05-18
 ---
