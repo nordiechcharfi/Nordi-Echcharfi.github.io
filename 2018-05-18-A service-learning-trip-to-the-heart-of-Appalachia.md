@@ -1,5 +1,5 @@
 <style>body {text-align: justify}</style>
-<style>body {"font-family: Brill; font-size:3pt; text-align: justify}</style>
+<style>body {"font-family: Brill; font-size:10pt; text-align: justify}</style>
 
 ![Williamson, WV](/image/Amizade.jpg "Williamson, WV – Fulbright-Amizade participants.")
 
