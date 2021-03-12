@@ -1,3 +1,9 @@
+---
+title: my title
+author: my name
+date: today
+---
+
 <style>body {text-align: justify}</style>
 <style>body {"font-family: Brill; font-size:3pt; text-align: justify}</style>
 
