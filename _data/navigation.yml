@@ -10,7 +10,7 @@ main:
   url: /teaching/
 - title: "Code"
 - title: "Posts"
-  url: /_posts/
+  url: /posts/
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
