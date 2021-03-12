@@ -1,6 +1,5 @@
 <style>body {text-align: justify}</style>
-<style>body {"font-family: Brill; font-size:10pt; text-align: justify}</style>
- <font size="5"> 
+<p style="font-family: Brill, serif; font-size:11pt; font-style:italic"> 
 
 ![Williamson, WV](/image/Amizade.jpg "Williamson, WV – Fulbright-Amizade participants.")
 
@@ -47,3 +46,4 @@ Saturday morning, it was raining, we left the heart of Appalachia. I brought wit
 ### <span style="color:red"> **Disclaimer**:</span>
    
 > *This website is NOT an official Fulbright Program and the views expressed are MINE and not those of the Fulbright Program, the U.S. Department of State, or any of its partner organizations*.
+</p>
