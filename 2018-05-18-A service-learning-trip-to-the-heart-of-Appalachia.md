@@ -1,7 +1,7 @@
 ---
-title: my title
-author: my name
-date: today
+title: "my title"
+author: Nordi ECHCHARFI
+date: 2018-05-18
 ---
 
 <style>body {text-align: justify}</style>
