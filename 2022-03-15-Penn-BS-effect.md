@@ -1,6 +1,6 @@
 
 ---
-title: "A service learning trip to the heart of Appalachia"
+title: "Penn BS effect"
 author: Nordi ECHCHARFI
 date: 2022-03-15
 ---
