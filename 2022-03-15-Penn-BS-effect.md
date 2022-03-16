@@ -2,7 +2,7 @@
 ---
 title: "A service learning trip to the heart of Appalachia"
 author: Nordi ECHCHARFI
-date: 2018-05-18
+date: 2022-03-15
 ---
 
 <style>body {text-align: justify}</style>
