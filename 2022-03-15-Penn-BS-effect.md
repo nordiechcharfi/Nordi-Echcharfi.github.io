@@ -1,5 +1,5 @@
 ---
-title: "A service learning trip to the heart of Appalachia"
+title: "The Penn Balassa Samuelson effect"
 author: Nordi ECHCHARFI
 date: 2018-05-18
 ---
