@@ -19,7 +19,7 @@ date: 2018-05-18
 >At night we’d sleep ’cause we worked hard
 >I never thought of ever leaving Butcher Holler"*
 
-   (Loretta Lynn, Coal Miner’s Daughter, 1970)
+   (see Loretta Lynn, Coal Miner’s Daughter, 1970)
 
 In “Coal Miner’s Daughter” Loretta Lynn tells the story of her life in Appalachia, having been born and grown up there. Although I have spent only seven days in Williamson, WV, the heart of Appalachia, I feel I also have a story to tell about the town.
 
