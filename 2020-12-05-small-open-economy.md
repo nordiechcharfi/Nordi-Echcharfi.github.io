@@ -1,5 +1,11 @@
+---
+title: "What is a small open economy?"
+author: Nordi ECHCHARFI
+date: 2022-03-18
+---
 
 <style>body {text-align: justify}</style>
+<style>body {"font-family: Brill; font-size:3pt; text-align: justify}</style>
 
 
 What does *'small open economy'* mean?
