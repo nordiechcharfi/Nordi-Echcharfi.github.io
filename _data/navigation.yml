@@ -9,7 +9,9 @@ main:
 - title: "Teaching"
   url: /teaching/
 - title: "Code"
-- title: "Blog"
+- title: "EconBlog"
+  url: /econblog/
+- title: "LifeBlog"
   url: /blog/
   #   url: /collection-archive/
   # - title: "Sitemap"
