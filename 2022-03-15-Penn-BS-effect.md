@@ -53,3 +53,8 @@ activities, and I have invited some of them to a Moroccan dinner. I am also invo
 with a soccer team called UWM Internationals, and I believe that we have been the best 
 team so far. I’m already settling in and I’m excited for what the rest of my Fulbright
 experience will bring me.
+
+
+### <span style="color:red"> **Disclaimer**:</span>
+   
+> *This website is NOT an official Fulbright Program and the views expressed are MINE and not those of the Fulbright Program, the U.S. Department of State, or any of its partner organizations*.
