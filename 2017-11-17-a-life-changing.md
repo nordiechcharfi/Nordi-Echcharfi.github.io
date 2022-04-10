@@ -5,7 +5,7 @@ date: 2017-11-17
 ---
 
 <style>body {text-align: justify}</style>
-<style>body {"font-family: Bitter; font-size:3pt; text-align: justify}</style>
+<style>body {"font-family: garamond; font-size:5pt; text-align: justify}</style>
 
 
 It has always been a dream of mine to study in the United States.
