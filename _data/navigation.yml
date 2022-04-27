@@ -3,7 +3,7 @@ main:
 #- title: "About"
   #url: /index.md/
 - title: "CV"
-   # url: /about/
+    url: /N_ECHCHARFI_CV_2022.pdf/
 - title: "Research"
   url: /research/
 - title: "Teaching"
