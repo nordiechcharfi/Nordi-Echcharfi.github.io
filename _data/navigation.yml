@@ -2,8 +2,6 @@
 main:
 #- title: "About"
   #url: /index.md/
-- title: "my CV"
-  url: /cv/
 - title: "Research"
   url: /research/
 - title: "Teaching"
@@ -13,6 +11,8 @@ main:
   url: /econblog/
 - title: "LifeBlog"
   url: /blog/
+- title: "my CV"
+  url: /cv/
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
